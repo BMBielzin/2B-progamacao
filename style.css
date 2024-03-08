@@ -29,3 +29,6 @@ font-size: 24px;
 .escola {
     background-image: linear-gradient(#ff000000, #383D58);
 }
+.escola-texto {
+    color: #ffffff00;
+}
