@@ -5,6 +5,10 @@ padding: 0;
 margin: 0;
 }
 
+body {
+    font-family: 'Poppins'
+}
+
 .cabecalho {
 background-color: #383D58;
 color: #FFFFFF;
